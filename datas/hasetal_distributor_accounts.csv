@@ -1,0 +1,253 @@
+account_id,region,account_type,tier,onboarded_date,month,cases_ordered
+ACC-1000,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2021-08-19,2025-07,4
+ACC-1000,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2021-08-19,2025-08,3
+ACC-1000,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2021-08-19,2025-09,2
+ACC-1000,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2021-08-19,2025-10,3
+ACC-1000,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2021-08-19,2025-11,2
+ACC-1000,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2021-08-19,2025-12,3
+ACC-1001,Münsterland (NRW),Gastronomie - Bar,B - Regular,2023-07-04,2025-07,5
+ACC-1001,Münsterland (NRW),Gastronomie - Bar,B - Regular,2023-07-04,2025-08,8
+ACC-1001,Münsterland (NRW),Gastronomie - Bar,B - Regular,2023-07-04,2025-09,17
+ACC-1001,Münsterland (NRW),Gastronomie - Bar,B - Regular,2023-07-04,2025-10,14
+ACC-1001,Münsterland (NRW),Gastronomie - Bar,B - Regular,2023-07-04,2025-11,12
+ACC-1001,Münsterland (NRW),Gastronomie - Bar,B - Regular,2023-07-04,2025-12,6
+ACC-1002,Emsland,Gastronomie - Bar,B - Regular,2021-09-23,2025-07,7
+ACC-1002,Emsland,Gastronomie - Bar,B - Regular,2021-09-23,2025-08,5
+ACC-1002,Emsland,Gastronomie - Bar,B - Regular,2021-09-23,2025-09,5
+ACC-1002,Emsland,Gastronomie - Bar,B - Regular,2021-09-23,2025-10,7
+ACC-1002,Emsland,Gastronomie - Bar,B - Regular,2021-09-23,2025-11,8
+ACC-1002,Emsland,Gastronomie - Bar,B - Regular,2021-09-23,2025-12,6
+ACC-1003,Münsterland (NRW),Gastronomie - Restaurant,C - Occasional,2021-09-27,2025-07,5
+ACC-1003,Münsterland (NRW),Gastronomie - Restaurant,C - Occasional,2021-09-27,2025-08,0
+ACC-1003,Münsterland (NRW),Gastronomie - Restaurant,C - Occasional,2021-09-27,2025-09,5
+ACC-1003,Münsterland (NRW),Gastronomie - Restaurant,C - Occasional,2021-09-27,2025-10,0
+ACC-1003,Münsterland (NRW),Gastronomie - Restaurant,C - Occasional,2021-09-27,2025-11,0
+ACC-1003,Münsterland (NRW),Gastronomie - Restaurant,C - Occasional,2021-09-27,2025-12,0
+ACC-1004,Oldenburg,Gastronomie - Bar,C - Occasional,2021-01-02,2025-07,4
+ACC-1004,Oldenburg,Gastronomie - Bar,C - Occasional,2021-01-02,2025-08,2
+ACC-1004,Oldenburg,Gastronomie - Bar,C - Occasional,2021-01-02,2025-09,4
+ACC-1004,Oldenburg,Gastronomie - Bar,C - Occasional,2021-01-02,2025-10,4
+ACC-1004,Oldenburg,Gastronomie - Bar,C - Occasional,2021-01-02,2025-11,3
+ACC-1004,Oldenburg,Gastronomie - Bar,C - Occasional,2021-01-02,2025-12,3
+ACC-1005,Emsland,Getränkemarkt,C - Occasional,2023-06-30,2025-07,4
+ACC-1005,Emsland,Getränkemarkt,C - Occasional,2023-06-30,2025-08,4
+ACC-1005,Emsland,Getränkemarkt,C - Occasional,2023-06-30,2025-09,2
+ACC-1005,Emsland,Getränkemarkt,C - Occasional,2023-06-30,2025-10,4
+ACC-1005,Emsland,Getränkemarkt,C - Occasional,2023-06-30,2025-11,2
+ACC-1005,Emsland,Getränkemarkt,C - Occasional,2023-06-30,2025-12,2
+ACC-1006,Emsland,Fachhandel,C - Occasional,2021-07-28,2025-07,1
+ACC-1006,Emsland,Fachhandel,C - Occasional,2021-07-28,2025-08,1
+ACC-1006,Emsland,Fachhandel,C - Occasional,2021-07-28,2025-09,3
+ACC-1006,Emsland,Fachhandel,C - Occasional,2021-07-28,2025-10,2
+ACC-1006,Emsland,Fachhandel,C - Occasional,2021-07-28,2025-11,3
+ACC-1006,Emsland,Fachhandel,C - Occasional,2021-07-28,2025-12,4
+ACC-1007,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2022-07-15,2025-07,3
+ACC-1007,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2022-07-15,2025-08,4
+ACC-1007,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2022-07-15,2025-09,1
+ACC-1007,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2022-07-15,2025-10,2
+ACC-1007,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2022-07-15,2025-11,0
+ACC-1007,Osnabrück Stadt,Gastronomie - Restaurant,C - Occasional,2022-07-15,2025-12,0
+ACC-1008,Landkreis Osnabrück,Gastronomie - Bar,A - Key Account,2023-10-04,2025-07,20
+ACC-1008,Landkreis Osnabrück,Gastronomie - Bar,A - Key Account,2023-10-04,2025-08,31
+ACC-1008,Landkreis Osnabrück,Gastronomie - Bar,A - Key Account,2023-10-04,2025-09,24
+ACC-1008,Landkreis Osnabrück,Gastronomie - Bar,A - Key Account,2023-10-04,2025-10,16
+ACC-1008,Landkreis Osnabrück,Gastronomie - Bar,A - Key Account,2023-10-04,2025-11,30
+ACC-1008,Landkreis Osnabrück,Gastronomie - Bar,A - Key Account,2023-10-04,2025-12,15
+ACC-1009,Emsland,Gastronomie - Bar,C - Occasional,2024-03-31,2025-07,4
+ACC-1009,Emsland,Gastronomie - Bar,C - Occasional,2024-03-31,2025-08,3
+ACC-1009,Emsland,Gastronomie - Bar,C - Occasional,2024-03-31,2025-09,3
+ACC-1009,Emsland,Gastronomie - Bar,C - Occasional,2024-03-31,2025-10,2
+ACC-1009,Emsland,Gastronomie - Bar,C - Occasional,2024-03-31,2025-11,3
+ACC-1009,Emsland,Gastronomie - Bar,C - Occasional,2024-03-31,2025-12,3
+ACC-1010,Münsterland (NRW),Gastronomie - Restaurant,B - Regular,2023-09-07,2025-07,12
+ACC-1010,Münsterland (NRW),Gastronomie - Restaurant,B - Regular,2023-09-07,2025-08,9
+ACC-1010,Münsterland (NRW),Gastronomie - Restaurant,B - Regular,2023-09-07,2025-09,4
+ACC-1010,Münsterland (NRW),Gastronomie - Restaurant,B - Regular,2023-09-07,2025-10,12
+ACC-1010,Münsterland (NRW),Gastronomie - Restaurant,B - Regular,2023-09-07,2025-11,4
+ACC-1010,Münsterland (NRW),Gastronomie - Restaurant,B - Regular,2023-09-07,2025-12,5
+ACC-1011,Bremen,Gastronomie - Bar,B - Regular,2021-09-13,2025-07,11
+ACC-1011,Bremen,Gastronomie - Bar,B - Regular,2021-09-13,2025-08,8
+ACC-1011,Bremen,Gastronomie - Bar,B - Regular,2021-09-13,2025-09,5
+ACC-1011,Bremen,Gastronomie - Bar,B - Regular,2021-09-13,2025-10,12
+ACC-1011,Bremen,Gastronomie - Bar,B - Regular,2021-09-13,2025-11,9
+ACC-1011,Bremen,Gastronomie - Bar,B - Regular,2021-09-13,2025-12,10
+ACC-1012,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-07-31,2025-07,2
+ACC-1012,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-07-31,2025-08,2
+ACC-1012,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-07-31,2025-09,0
+ACC-1012,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-07-31,2025-10,0
+ACC-1012,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-07-31,2025-11,0
+ACC-1012,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-07-31,2025-12,0
+ACC-1013,Osnabrück Stadt,Fachhandel,C - Occasional,2022-04-07,2025-07,2
+ACC-1013,Osnabrück Stadt,Fachhandel,C - Occasional,2022-04-07,2025-08,3
+ACC-1013,Osnabrück Stadt,Fachhandel,C - Occasional,2022-04-07,2025-09,3
+ACC-1013,Osnabrück Stadt,Fachhandel,C - Occasional,2022-04-07,2025-10,4
+ACC-1013,Osnabrück Stadt,Fachhandel,C - Occasional,2022-04-07,2025-11,3
+ACC-1013,Osnabrück Stadt,Fachhandel,C - Occasional,2022-04-07,2025-12,5
+ACC-1014,Landkreis Osnabrück,Fachhandel,A - Key Account,2022-06-24,2025-07,22
+ACC-1014,Landkreis Osnabrück,Fachhandel,A - Key Account,2022-06-24,2025-08,15
+ACC-1014,Landkreis Osnabrück,Fachhandel,A - Key Account,2022-06-24,2025-09,20
+ACC-1014,Landkreis Osnabrück,Fachhandel,A - Key Account,2022-06-24,2025-10,19
+ACC-1014,Landkreis Osnabrück,Fachhandel,A - Key Account,2022-06-24,2025-11,20
+ACC-1014,Landkreis Osnabrück,Fachhandel,A - Key Account,2022-06-24,2025-12,21
+ACC-1015,Oldenburg,Gastronomie - Restaurant,C - Occasional,2021-06-06,2025-07,3
+ACC-1015,Oldenburg,Gastronomie - Restaurant,C - Occasional,2021-06-06,2025-08,2
+ACC-1015,Oldenburg,Gastronomie - Restaurant,C - Occasional,2021-06-06,2025-09,4
+ACC-1015,Oldenburg,Gastronomie - Restaurant,C - Occasional,2021-06-06,2025-10,3
+ACC-1015,Oldenburg,Gastronomie - Restaurant,C - Occasional,2021-06-06,2025-11,3
+ACC-1015,Oldenburg,Gastronomie - Restaurant,C - Occasional,2021-06-06,2025-12,4
+ACC-1016,Osnabrück Stadt,Gastronomie - Bar,A - Key Account,2023-10-30,2025-07,23
+ACC-1016,Osnabrück Stadt,Gastronomie - Bar,A - Key Account,2023-10-30,2025-08,23
+ACC-1016,Osnabrück Stadt,Gastronomie - Bar,A - Key Account,2023-10-30,2025-09,25
+ACC-1016,Osnabrück Stadt,Gastronomie - Bar,A - Key Account,2023-10-30,2025-10,27
+ACC-1016,Osnabrück Stadt,Gastronomie - Bar,A - Key Account,2023-10-30,2025-11,19
+ACC-1016,Osnabrück Stadt,Gastronomie - Bar,A - Key Account,2023-10-30,2025-12,17
+ACC-1017,Emsland,Gastronomie - Restaurant,B - Regular,2022-09-05,2025-07,13
+ACC-1017,Emsland,Gastronomie - Restaurant,B - Regular,2022-09-05,2025-08,9
+ACC-1017,Emsland,Gastronomie - Restaurant,B - Regular,2022-09-05,2025-09,11
+ACC-1017,Emsland,Gastronomie - Restaurant,B - Regular,2022-09-05,2025-10,5
+ACC-1017,Emsland,Gastronomie - Restaurant,B - Regular,2022-09-05,2025-11,13
+ACC-1017,Emsland,Gastronomie - Restaurant,B - Regular,2022-09-05,2025-12,7
+ACC-1018,Oldenburg,Getränkemarkt,C - Occasional,2022-03-05,2025-07,1
+ACC-1018,Oldenburg,Getränkemarkt,C - Occasional,2022-03-05,2025-08,2
+ACC-1018,Oldenburg,Getränkemarkt,C - Occasional,2022-03-05,2025-09,2
+ACC-1018,Oldenburg,Getränkemarkt,C - Occasional,2022-03-05,2025-10,0
+ACC-1018,Oldenburg,Getränkemarkt,C - Occasional,2022-03-05,2025-11,0
+ACC-1018,Oldenburg,Getränkemarkt,C - Occasional,2022-03-05,2025-12,0
+ACC-1019,Osnabrück Stadt,Gastronomie - Restaurant,B - Regular,2023-04-03,2025-07,10
+ACC-1019,Osnabrück Stadt,Gastronomie - Restaurant,B - Regular,2023-04-03,2025-08,0
+ACC-1019,Osnabrück Stadt,Gastronomie - Restaurant,B - Regular,2023-04-03,2025-09,0
+ACC-1019,Osnabrück Stadt,Gastronomie - Restaurant,B - Regular,2023-04-03,2025-10,5
+ACC-1019,Osnabrück Stadt,Gastronomie - Restaurant,B - Regular,2023-04-03,2025-11,0
+ACC-1019,Osnabrück Stadt,Gastronomie - Restaurant,B - Regular,2023-04-03,2025-12,0
+ACC-1020,Grafschaft Bentheim,Fachhandel,B - Regular,2022-06-04,2025-07,11
+ACC-1020,Grafschaft Bentheim,Fachhandel,B - Regular,2022-06-04,2025-08,16
+ACC-1020,Grafschaft Bentheim,Fachhandel,B - Regular,2022-06-04,2025-09,8
+ACC-1020,Grafschaft Bentheim,Fachhandel,B - Regular,2022-06-04,2025-10,7
+ACC-1020,Grafschaft Bentheim,Fachhandel,B - Regular,2022-06-04,2025-11,10
+ACC-1020,Grafschaft Bentheim,Fachhandel,B - Regular,2022-06-04,2025-12,9
+ACC-1021,Oldenburg,Fachhandel,C - Occasional,2023-01-24,2025-07,2
+ACC-1021,Oldenburg,Fachhandel,C - Occasional,2023-01-24,2025-08,3
+ACC-1021,Oldenburg,Fachhandel,C - Occasional,2023-01-24,2025-09,0
+ACC-1021,Oldenburg,Fachhandel,C - Occasional,2023-01-24,2025-10,0
+ACC-1021,Oldenburg,Fachhandel,C - Occasional,2023-01-24,2025-11,0
+ACC-1021,Oldenburg,Fachhandel,C - Occasional,2023-01-24,2025-12,0
+ACC-1022,Landkreis Osnabrück,Gastronomie - Restaurant,C - Occasional,2021-05-24,2025-07,2
+ACC-1022,Landkreis Osnabrück,Gastronomie - Restaurant,C - Occasional,2021-05-24,2025-08,4
+ACC-1022,Landkreis Osnabrück,Gastronomie - Restaurant,C - Occasional,2021-05-24,2025-09,0
+ACC-1022,Landkreis Osnabrück,Gastronomie - Restaurant,C - Occasional,2021-05-24,2025-10,0
+ACC-1022,Landkreis Osnabrück,Gastronomie - Restaurant,C - Occasional,2021-05-24,2025-11,0
+ACC-1022,Landkreis Osnabrück,Gastronomie - Restaurant,C - Occasional,2021-05-24,2025-12,0
+ACC-1023,Emsland,Fachhandel,C - Occasional,2024-05-19,2025-07,2
+ACC-1023,Emsland,Fachhandel,C - Occasional,2024-05-19,2025-08,4
+ACC-1023,Emsland,Fachhandel,C - Occasional,2024-05-19,2025-09,4
+ACC-1023,Emsland,Fachhandel,C - Occasional,2024-05-19,2025-10,2
+ACC-1023,Emsland,Fachhandel,C - Occasional,2024-05-19,2025-11,3
+ACC-1023,Emsland,Fachhandel,C - Occasional,2024-05-19,2025-12,1
+ACC-1024,Oldenburg,Getränkemarkt,A - Key Account,2023-10-02,2025-07,29
+ACC-1024,Oldenburg,Getränkemarkt,A - Key Account,2023-10-02,2025-08,9
+ACC-1024,Oldenburg,Getränkemarkt,A - Key Account,2023-10-02,2025-09,19
+ACC-1024,Oldenburg,Getränkemarkt,A - Key Account,2023-10-02,2025-10,22
+ACC-1024,Oldenburg,Getränkemarkt,A - Key Account,2023-10-02,2025-11,20
+ACC-1024,Oldenburg,Getränkemarkt,A - Key Account,2023-10-02,2025-12,19
+ACC-1025,Osnabrück Stadt,Getränkemarkt,B - Regular,2023-12-05,2025-07,4
+ACC-1025,Osnabrück Stadt,Getränkemarkt,B - Regular,2023-12-05,2025-08,10
+ACC-1025,Osnabrück Stadt,Getränkemarkt,B - Regular,2023-12-05,2025-09,5
+ACC-1025,Osnabrück Stadt,Getränkemarkt,B - Regular,2023-12-05,2025-10,5
+ACC-1025,Osnabrück Stadt,Getränkemarkt,B - Regular,2023-12-05,2025-11,12
+ACC-1025,Osnabrück Stadt,Getränkemarkt,B - Regular,2023-12-05,2025-12,10
+ACC-1026,Emsland,Getränkemarkt,B - Regular,2022-06-06,2025-07,9
+ACC-1026,Emsland,Getränkemarkt,B - Regular,2022-06-06,2025-08,11
+ACC-1026,Emsland,Getränkemarkt,B - Regular,2022-06-06,2025-09,10
+ACC-1026,Emsland,Getränkemarkt,B - Regular,2022-06-06,2025-10,9
+ACC-1026,Emsland,Getränkemarkt,B - Regular,2022-06-06,2025-11,16
+ACC-1026,Emsland,Getränkemarkt,B - Regular,2022-06-06,2025-12,7
+ACC-1027,Münsterland (NRW),Gastronomie - Bar,A - Key Account,2022-03-17,2025-07,35
+ACC-1027,Münsterland (NRW),Gastronomie - Bar,A - Key Account,2022-03-17,2025-08,24
+ACC-1027,Münsterland (NRW),Gastronomie - Bar,A - Key Account,2022-03-17,2025-09,20
+ACC-1027,Münsterland (NRW),Gastronomie - Bar,A - Key Account,2022-03-17,2025-10,10
+ACC-1027,Münsterland (NRW),Gastronomie - Bar,A - Key Account,2022-03-17,2025-11,24
+ACC-1027,Münsterland (NRW),Gastronomie - Bar,A - Key Account,2022-03-17,2025-12,28
+ACC-1028,Münsterland (NRW),Getränkemarkt,B - Regular,2023-09-22,2025-07,9
+ACC-1028,Münsterland (NRW),Getränkemarkt,B - Regular,2023-09-22,2025-08,2
+ACC-1028,Münsterland (NRW),Getränkemarkt,B - Regular,2023-09-22,2025-09,8
+ACC-1028,Münsterland (NRW),Getränkemarkt,B - Regular,2023-09-22,2025-10,9
+ACC-1028,Münsterland (NRW),Getränkemarkt,B - Regular,2023-09-22,2025-11,9
+ACC-1028,Münsterland (NRW),Getränkemarkt,B - Regular,2023-09-22,2025-12,8
+ACC-1029,Emsland,Fachhandel,B - Regular,2021-06-26,2025-07,11
+ACC-1029,Emsland,Fachhandel,B - Regular,2021-06-26,2025-08,13
+ACC-1029,Emsland,Fachhandel,B - Regular,2021-06-26,2025-09,10
+ACC-1029,Emsland,Fachhandel,B - Regular,2021-06-26,2025-10,6
+ACC-1029,Emsland,Fachhandel,B - Regular,2021-06-26,2025-11,7
+ACC-1029,Emsland,Fachhandel,B - Regular,2021-06-26,2025-12,18
+ACC-1030,Osnabrück Stadt,Fachhandel,C - Occasional,2022-10-02,2025-07,2
+ACC-1030,Osnabrück Stadt,Fachhandel,C - Occasional,2022-10-02,2025-08,3
+ACC-1030,Osnabrück Stadt,Fachhandel,C - Occasional,2022-10-02,2025-09,2
+ACC-1030,Osnabrück Stadt,Fachhandel,C - Occasional,2022-10-02,2025-10,3
+ACC-1030,Osnabrück Stadt,Fachhandel,C - Occasional,2022-10-02,2025-11,3
+ACC-1030,Osnabrück Stadt,Fachhandel,C - Occasional,2022-10-02,2025-12,2
+ACC-1031,Emsland,Gastronomie - Bar,C - Occasional,2023-07-07,2025-07,1
+ACC-1031,Emsland,Gastronomie - Bar,C - Occasional,2023-07-07,2025-08,1
+ACC-1031,Emsland,Gastronomie - Bar,C - Occasional,2023-07-07,2025-09,4
+ACC-1031,Emsland,Gastronomie - Bar,C - Occasional,2023-07-07,2025-10,4
+ACC-1031,Emsland,Gastronomie - Bar,C - Occasional,2023-07-07,2025-11,3
+ACC-1031,Emsland,Gastronomie - Bar,C - Occasional,2023-07-07,2025-12,3
+ACC-1032,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2021-05-25,2025-07,24
+ACC-1032,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2021-05-25,2025-08,12
+ACC-1032,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2021-05-25,2025-09,17
+ACC-1032,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2021-05-25,2025-10,11
+ACC-1032,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2021-05-25,2025-11,24
+ACC-1032,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2021-05-25,2025-12,27
+ACC-1033,Emsland,Gastronomie - Bar,B - Regular,2021-01-12,2025-07,9
+ACC-1033,Emsland,Gastronomie - Bar,B - Regular,2021-01-12,2025-08,9
+ACC-1033,Emsland,Gastronomie - Bar,B - Regular,2021-01-12,2025-09,8
+ACC-1033,Emsland,Gastronomie - Bar,B - Regular,2021-01-12,2025-10,14
+ACC-1033,Emsland,Gastronomie - Bar,B - Regular,2021-01-12,2025-11,6
+ACC-1033,Emsland,Gastronomie - Bar,B - Regular,2021-01-12,2025-12,4
+ACC-1034,Landkreis Osnabrück,Fachhandel,C - Occasional,2024-03-30,2025-07,2
+ACC-1034,Landkreis Osnabrück,Fachhandel,C - Occasional,2024-03-30,2025-08,0
+ACC-1034,Landkreis Osnabrück,Fachhandel,C - Occasional,2024-03-30,2025-09,3
+ACC-1034,Landkreis Osnabrück,Fachhandel,C - Occasional,2024-03-30,2025-10,0
+ACC-1034,Landkreis Osnabrück,Fachhandel,C - Occasional,2024-03-30,2025-11,0
+ACC-1034,Landkreis Osnabrück,Fachhandel,C - Occasional,2024-03-30,2025-12,0
+ACC-1035,Bremen,Gastronomie - Bar,A - Key Account,2023-03-20,2025-07,26
+ACC-1035,Bremen,Gastronomie - Bar,A - Key Account,2023-03-20,2025-08,5
+ACC-1035,Bremen,Gastronomie - Bar,A - Key Account,2023-03-20,2025-09,25
+ACC-1035,Bremen,Gastronomie - Bar,A - Key Account,2023-03-20,2025-10,24
+ACC-1035,Bremen,Gastronomie - Bar,A - Key Account,2023-03-20,2025-11,22
+ACC-1035,Bremen,Gastronomie - Bar,A - Key Account,2023-03-20,2025-12,26
+ACC-1036,Münsterland (NRW),Fachhandel,B - Regular,2021-03-11,2025-07,11
+ACC-1036,Münsterland (NRW),Fachhandel,B - Regular,2021-03-11,2025-08,0
+ACC-1036,Münsterland (NRW),Fachhandel,B - Regular,2021-03-11,2025-09,0
+ACC-1036,Münsterland (NRW),Fachhandel,B - Regular,2021-03-11,2025-10,0
+ACC-1036,Münsterland (NRW),Fachhandel,B - Regular,2021-03-11,2025-11,0
+ACC-1036,Münsterland (NRW),Fachhandel,B - Regular,2021-03-11,2025-12,0
+ACC-1037,Landkreis Osnabrück,Fachhandel,B - Regular,2021-02-19,2025-07,11
+ACC-1037,Landkreis Osnabrück,Fachhandel,B - Regular,2021-02-19,2025-08,12
+ACC-1037,Landkreis Osnabrück,Fachhandel,B - Regular,2021-02-19,2025-09,7
+ACC-1037,Landkreis Osnabrück,Fachhandel,B - Regular,2021-02-19,2025-10,10
+ACC-1037,Landkreis Osnabrück,Fachhandel,B - Regular,2021-02-19,2025-11,7
+ACC-1037,Landkreis Osnabrück,Fachhandel,B - Regular,2021-02-19,2025-12,6
+ACC-1038,Grafschaft Bentheim,Fachhandel,A - Key Account,2022-01-02,2025-07,7
+ACC-1038,Grafschaft Bentheim,Fachhandel,A - Key Account,2022-01-02,2025-08,30
+ACC-1038,Grafschaft Bentheim,Fachhandel,A - Key Account,2022-01-02,2025-09,8
+ACC-1038,Grafschaft Bentheim,Fachhandel,A - Key Account,2022-01-02,2025-10,20
+ACC-1038,Grafschaft Bentheim,Fachhandel,A - Key Account,2022-01-02,2025-11,34
+ACC-1038,Grafschaft Bentheim,Fachhandel,A - Key Account,2022-01-02,2025-12,26
+ACC-1039,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-05-06,2025-07,3
+ACC-1039,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-05-06,2025-08,2
+ACC-1039,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-05-06,2025-09,1
+ACC-1039,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-05-06,2025-10,4
+ACC-1039,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-05-06,2025-11,3
+ACC-1039,Landkreis Osnabrück,Gastronomie - Bar,C - Occasional,2022-05-06,2025-12,3
+ACC-1040,Emsland,Gastronomie - Bar,C - Occasional,2022-03-13,2025-07,3
+ACC-1040,Emsland,Gastronomie - Bar,C - Occasional,2022-03-13,2025-08,1
+ACC-1040,Emsland,Gastronomie - Bar,C - Occasional,2022-03-13,2025-09,2
+ACC-1040,Emsland,Gastronomie - Bar,C - Occasional,2022-03-13,2025-10,3
+ACC-1040,Emsland,Gastronomie - Bar,C - Occasional,2022-03-13,2025-11,2
+ACC-1040,Emsland,Gastronomie - Bar,C - Occasional,2022-03-13,2025-12,2
+ACC-1041,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2022-10-10,2025-07,23
+ACC-1041,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2022-10-10,2025-08,28
+ACC-1041,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2022-10-10,2025-09,15
+ACC-1041,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2022-10-10,2025-10,19
+ACC-1041,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2022-10-10,2025-11,9
+ACC-1041,Landkreis Osnabrück,Gastronomie - Restaurant,A - Key Account,2022-10-10,2025-12,29

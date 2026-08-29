@@ -1,0 +1,329 @@
+month,product_line,channel,cases_sold,avg_price_per_case_eur,revenue_eur
+2024-01,Hasetal Dry Gin,Fachhandel (Distributor),456,19.52,8900.53
+2024-02,Hasetal Dry Gin,Fachhandel (Distributor),457,20.5,9366.46
+2024-03,Hasetal Dry Gin,Fachhandel (Distributor),418,19.46,8135.25
+2024-04,Hasetal Dry Gin,Fachhandel (Distributor),483,20.05,9684.75
+2024-05,Hasetal Dry Gin,Fachhandel (Distributor),400,19.92,7967.61
+2024-06,Hasetal Dry Gin,Fachhandel (Distributor),396,19.33,7653.16
+2024-07,Hasetal Dry Gin,Fachhandel (Distributor),418,18.47,7722.55
+2024-08,Hasetal Dry Gin,Fachhandel (Distributor),341,19.27,6570.86
+2024-09,Hasetal Dry Gin,Fachhandel (Distributor),363,19.78,7181.87
+2024-10,Hasetal Dry Gin,Fachhandel (Distributor),363,18.77,6813.35
+2024-11,Hasetal Dry Gin,Fachhandel (Distributor),442,19.47,8604.52
+2024-12,Hasetal Dry Gin,Fachhandel (Distributor),389,18.76,7298.51
+2025-01,Hasetal Dry Gin,Fachhandel (Distributor),364,19.67,7158.14
+2025-02,Hasetal Dry Gin,Fachhandel (Distributor),339,19.82,6719.29
+2025-03,Hasetal Dry Gin,Fachhandel (Distributor),354,19.43,6877.68
+2025-04,Hasetal Dry Gin,Fachhandel (Distributor),350,20.69,7241.2
+2025-05,Hasetal Dry Gin,Fachhandel (Distributor),365,18.98,6926.99
+2025-06,Hasetal Dry Gin,Fachhandel (Distributor),388,18.88,7326.27
+2025-07,Hasetal Dry Gin,Fachhandel (Distributor),364,18.45,6714.97
+2025-08,Hasetal Dry Gin,Fachhandel (Distributor),311,19.72,6131.6
+2025-09,Hasetal Dry Gin,Fachhandel (Distributor),373,19.7,7348.39
+2025-10,Hasetal Dry Gin,Fachhandel (Distributor),342,19.42,6642.65
+2025-11,Hasetal Dry Gin,Fachhandel (Distributor),297,19.18,5695.49
+2025-12,Hasetal Dry Gin,Fachhandel (Distributor),324,20.22,6551.79
+2024-01,Hasetal Dry Gin,Gastronomie (On-Premise),247,23.2,5731.43
+2024-02,Hasetal Dry Gin,Gastronomie (On-Premise),243,24.22,5884.72
+2024-03,Hasetal Dry Gin,Gastronomie (On-Premise),220,24.95,5488.91
+2024-04,Hasetal Dry Gin,Gastronomie (On-Premise),253,25.18,6371.68
+2024-05,Hasetal Dry Gin,Gastronomie (On-Premise),212,24.27,5145.82
+2024-06,Hasetal Dry Gin,Gastronomie (On-Premise),233,25.22,5875.57
+2024-07,Hasetal Dry Gin,Gastronomie (On-Premise),214,24.36,5213.8
+2024-08,Hasetal Dry Gin,Gastronomie (On-Premise),199,23.62,4700.54
+2024-09,Hasetal Dry Gin,Gastronomie (On-Premise),235,25.5,5991.76
+2024-10,Hasetal Dry Gin,Gastronomie (On-Premise),215,25.24,5426.08
+2024-11,Hasetal Dry Gin,Gastronomie (On-Premise),221,24.03,5309.71
+2024-12,Hasetal Dry Gin,Gastronomie (On-Premise),219,25.63,5613.07
+2025-01,Hasetal Dry Gin,Gastronomie (On-Premise),209,25.65,5360.85
+2025-02,Hasetal Dry Gin,Gastronomie (On-Premise),158,25.1,3966.45
+2025-03,Hasetal Dry Gin,Gastronomie (On-Premise),206,24.28,5001.73
+2025-04,Hasetal Dry Gin,Gastronomie (On-Premise),204,23.04,4699.98
+2025-05,Hasetal Dry Gin,Gastronomie (On-Premise),196,24.76,4853.45
+2025-06,Hasetal Dry Gin,Gastronomie (On-Premise),224,24.12,5402.67
+2025-07,Hasetal Dry Gin,Gastronomie (On-Premise),182,24.13,4391.88
+2025-08,Hasetal Dry Gin,Gastronomie (On-Premise),210,24.74,5195.74
+2025-09,Hasetal Dry Gin,Gastronomie (On-Premise),182,24.88,4527.66
+2025-10,Hasetal Dry Gin,Gastronomie (On-Premise),191,25.21,4815.48
+2025-11,Hasetal Dry Gin,Gastronomie (On-Premise),176,24.26,4269.61
+2025-12,Hasetal Dry Gin,Gastronomie (On-Premise),179,23.42,4192.95
+2024-01,Hasetal Dry Gin,DTC Online,160,28.4,4543.31
+2024-02,Hasetal Dry Gin,DTC Online,164,27.98,4588.18
+2024-03,Hasetal Dry Gin,DTC Online,150,27.82,4172.92
+2024-04,Hasetal Dry Gin,DTC Online,174,27.5,4784.46
+2024-05,Hasetal Dry Gin,DTC Online,186,28.52,5304.07
+2024-06,Hasetal Dry Gin,DTC Online,231,28.32,6542.51
+2024-07,Hasetal Dry Gin,DTC Online,212,28.11,5959.76
+2024-08,Hasetal Dry Gin,DTC Online,179,28.15,5039.31
+2024-09,Hasetal Dry Gin,DTC Online,228,30.26,6898.61
+2024-10,Hasetal Dry Gin,DTC Online,234,28.43,6652.59
+2024-11,Hasetal Dry Gin,DTC Online,249,27.19,6769.61
+2024-12,Hasetal Dry Gin,DTC Online,289,28.81,8326.26
+2025-01,Hasetal Dry Gin,DTC Online,294,27.41,8057.46
+2025-02,Hasetal Dry Gin,DTC Online,324,26.99,8744.79
+2025-03,Hasetal Dry Gin,DTC Online,317,30.03,9518.39
+2025-04,Hasetal Dry Gin,DTC Online,288,27.7,7976.55
+2025-05,Hasetal Dry Gin,DTC Online,334,27.75,9268.31
+2025-06,Hasetal Dry Gin,DTC Online,298,28.23,8413.42
+2025-07,Hasetal Dry Gin,DTC Online,329,28.58,9401.28
+2025-08,Hasetal Dry Gin,DTC Online,350,29.49,10319.78
+2025-09,Hasetal Dry Gin,DTC Online,371,27.9,10351.93
+2025-10,Hasetal Dry Gin,DTC Online,449,27.13,12183.44
+2025-11,Hasetal Dry Gin,DTC Online,448,29.28,13117.38
+2025-12,Hasetal Dry Gin,DTC Online,393,28.33,11134.11
+2024-01,Hasetal Dry Gin,Hofladen/Tasting Room,224,24.77,5548.57
+2024-02,Hasetal Dry Gin,Hofladen/Tasting Room,213,25.95,5528.24
+2024-03,Hasetal Dry Gin,Hofladen/Tasting Room,217,25.2,5468.44
+2024-04,Hasetal Dry Gin,Hofladen/Tasting Room,216,25.17,5437.52
+2024-05,Hasetal Dry Gin,Hofladen/Tasting Room,228,24.81,5655.68
+2024-06,Hasetal Dry Gin,Hofladen/Tasting Room,195,26.33,5134.82
+2024-07,Hasetal Dry Gin,Hofladen/Tasting Room,201,26.47,5320.17
+2024-08,Hasetal Dry Gin,Hofladen/Tasting Room,230,27.19,6253.44
+2024-09,Hasetal Dry Gin,Hofladen/Tasting Room,198,25.04,4957.63
+2024-10,Hasetal Dry Gin,Hofladen/Tasting Room,209,25.99,5431.55
+2024-11,Hasetal Dry Gin,Hofladen/Tasting Room,232,25.74,5970.53
+2024-12,Hasetal Dry Gin,Hofladen/Tasting Room,216,27.82,6010.05
+2025-01,Hasetal Dry Gin,Hofladen/Tasting Room,201,24.9,5004.61
+2025-02,Hasetal Dry Gin,Hofladen/Tasting Room,214,26.28,5623.07
+2025-03,Hasetal Dry Gin,Hofladen/Tasting Room,218,25.07,5465.58
+2025-04,Hasetal Dry Gin,Hofladen/Tasting Room,202,26.39,5329.96
+2025-05,Hasetal Dry Gin,Hofladen/Tasting Room,195,25.86,5042.44
+2025-06,Hasetal Dry Gin,Hofladen/Tasting Room,203,25.84,5246.26
+2025-07,Hasetal Dry Gin,Hofladen/Tasting Room,197,26.0,5122.22
+2025-08,Hasetal Dry Gin,Hofladen/Tasting Room,244,26.54,6475.34
+2025-09,Hasetal Dry Gin,Hofladen/Tasting Room,197,26.12,5146.13
+2025-10,Hasetal Dry Gin,Hofladen/Tasting Room,234,28.7,6715.41
+2025-11,Hasetal Dry Gin,Hofladen/Tasting Room,248,26.46,6562.39
+2025-12,Hasetal Dry Gin,Hofladen/Tasting Room,219,26.31,5762.05
+2024-01,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),141,21.45,3023.96
+2024-02,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),143,21.65,3096.39
+2024-03,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),178,20.39,3629.42
+2024-04,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),154,20.55,3165.46
+2024-05,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),137,22.31,3055.87
+2024-06,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),71,20.9,1484.02
+2024-07,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),65,22.04,1432.62
+2024-08,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),64,21.74,1391.38
+2024-09,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),136,21.18,2880.18
+2024-10,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),159,22.01,3499.71
+2024-11,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),236,21.72,5126.11
+2024-12,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),268,22.15,5936.84
+2025-01,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),119,21.53,2561.55
+2025-02,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),132,22.16,2925.25
+2025-03,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),111,21.38,2373.54
+2025-04,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),117,21.18,2477.67
+2025-05,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),140,21.86,3060.74
+2025-06,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),53,22.19,1176.32
+2025-07,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),70,22.27,1558.83
+2025-08,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),50,21.29,1064.31
+2025-09,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),127,21.14,2684.96
+2025-10,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),117,22.1,2585.93
+2025-11,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),224,21.56,4829.76
+2025-12,Hasetal Sloe Gin (Saison),Fachhandel (Distributor),170,20.94,3559.15
+2024-01,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),81,25.99,2105.13
+2024-02,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),94,25.84,2429.11
+2024-03,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),77,27.11,2087.15
+2024-04,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),90,25.84,2325.33
+2024-05,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),86,27.01,2322.71
+2024-06,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),35,27.37,958.1
+2024-07,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),39,26.51,1034.04
+2024-08,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),38,26.69,1014.14
+2024-09,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),75,27.54,2065.22
+2024-10,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),83,26.0,2157.78
+2024-11,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),189,25.42,4804.15
+2024-12,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),154,27.48,4231.39
+2025-01,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),72,26.5,1907.68
+2025-02,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),68,26.6,1808.85
+2025-03,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),64,27.69,1772.04
+2025-04,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),69,26.44,1824.27
+2025-05,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),71,27.25,1934.67
+2025-06,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),35,27.51,962.85
+2025-07,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),30,26.55,796.39
+2025-08,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),34,27.49,934.81
+2025-09,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),62,27.1,1679.89
+2025-10,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),69,26.52,1829.94
+2025-11,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),140,26.84,3757.07
+2025-12,Hasetal Sloe Gin (Saison),Gastronomie (On-Premise),129,27.89,3597.81
+2024-01,Hasetal Sloe Gin (Saison),DTC Online,58,31.81,1844.85
+2024-02,Hasetal Sloe Gin (Saison),DTC Online,63,31.07,1957.38
+2024-03,Hasetal Sloe Gin (Saison),DTC Online,63,30.76,1937.94
+2024-04,Hasetal Sloe Gin (Saison),DTC Online,63,30.93,1948.51
+2024-05,Hasetal Sloe Gin (Saison),DTC Online,65,31.6,2054.29
+2024-06,Hasetal Sloe Gin (Saison),DTC Online,31,33.0,1022.97
+2024-07,Hasetal Sloe Gin (Saison),DTC Online,32,29.92,957.41
+2024-08,Hasetal Sloe Gin (Saison),DTC Online,41,31.79,1303.28
+2024-09,Hasetal Sloe Gin (Saison),DTC Online,81,31.64,2562.46
+2024-10,Hasetal Sloe Gin (Saison),DTC Online,80,30.21,2417.14
+2024-11,Hasetal Sloe Gin (Saison),DTC Online,186,30.42,5657.98
+2024-12,Hasetal Sloe Gin (Saison),DTC Online,210,30.91,6491.73
+2025-01,Hasetal Sloe Gin (Saison),DTC Online,85,30.75,2613.8
+2025-02,Hasetal Sloe Gin (Saison),DTC Online,99,30.52,3021.96
+2025-03,Hasetal Sloe Gin (Saison),DTC Online,93,31.28,2908.76
+2025-04,Hasetal Sloe Gin (Saison),DTC Online,107,30.58,3271.82
+2025-05,Hasetal Sloe Gin (Saison),DTC Online,105,31.27,3282.95
+2025-06,Hasetal Sloe Gin (Saison),DTC Online,50,29.74,1486.95
+2025-07,Hasetal Sloe Gin (Saison),DTC Online,56,30.85,1727.67
+2025-08,Hasetal Sloe Gin (Saison),DTC Online,64,32.42,2075.15
+2025-09,Hasetal Sloe Gin (Saison),DTC Online,140,30.9,4326.14
+2025-10,Hasetal Sloe Gin (Saison),DTC Online,136,30.12,4095.8
+2025-11,Hasetal Sloe Gin (Saison),DTC Online,312,30.78,9603.71
+2025-12,Hasetal Sloe Gin (Saison),DTC Online,336,30.28,10173.89
+2024-01,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,83,28.26,2345.37
+2024-02,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,77,28.01,2156.67
+2024-03,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,72,28.43,2047.18
+2024-04,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,71,28.77,2042.92
+2024-05,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,80,30.18,2414.5
+2024-06,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,38,28.51,1083.23
+2024-07,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,35,27.64,967.25
+2024-08,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,29,27.9,809.18
+2024-09,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,72,28.64,2062.13
+2024-10,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,81,27.86,2256.61
+2024-11,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,162,27.23,4410.8
+2024-12,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,182,27.95,5087.08
+2025-01,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,78,28.25,2203.7
+2025-02,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,63,27.84,1753.93
+2025-03,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,72,27.97,2013.64
+2025-04,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,66,28.23,1863.11
+2025-05,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,76,28.96,2200.6
+2025-06,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,30,29.44,883.1
+2025-07,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,34,29.67,1008.75
+2025-08,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,40,28.41,1136.3
+2025-09,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,87,28.14,2448.03
+2025-10,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,78,29.51,2302.09
+2025-11,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,165,29.25,4826.28
+2025-12,Hasetal Sloe Gin (Saison),Hofladen/Tasting Room,137,26.62,3646.34
+2024-01,Alte Sorte Obstbrand,Fachhandel (Distributor),246,15.53,3819.69
+2024-02,Alte Sorte Obstbrand,Fachhandel (Distributor),277,15.23,4219.76
+2024-03,Alte Sorte Obstbrand,Fachhandel (Distributor),271,14.57,3948.65
+2024-04,Alte Sorte Obstbrand,Fachhandel (Distributor),194,15.17,2943.89
+2024-05,Alte Sorte Obstbrand,Fachhandel (Distributor),229,15.19,3477.39
+2024-06,Alte Sorte Obstbrand,Fachhandel (Distributor),175,15.16,2652.89
+2024-07,Alte Sorte Obstbrand,Fachhandel (Distributor),183,15.51,2837.48
+2024-08,Alte Sorte Obstbrand,Fachhandel (Distributor),208,14.77,3072.45
+2024-09,Alte Sorte Obstbrand,Fachhandel (Distributor),186,14.72,2737.36
+2024-10,Alte Sorte Obstbrand,Fachhandel (Distributor),187,15.64,2923.85
+2024-11,Alte Sorte Obstbrand,Fachhandel (Distributor),166,15.43,2561.35
+2024-12,Alte Sorte Obstbrand,Fachhandel (Distributor),168,14.84,2492.86
+2025-01,Alte Sorte Obstbrand,Fachhandel (Distributor),169,14.73,2489.02
+2025-02,Alte Sorte Obstbrand,Fachhandel (Distributor),157,14.65,2300.64
+2025-03,Alte Sorte Obstbrand,Fachhandel (Distributor),189,15.22,2875.84
+2025-04,Alte Sorte Obstbrand,Fachhandel (Distributor),146,15.3,2233.45
+2025-05,Alte Sorte Obstbrand,Fachhandel (Distributor),149,15.1,2249.79
+2025-06,Alte Sorte Obstbrand,Fachhandel (Distributor),154,15.55,2394.0
+2025-07,Alte Sorte Obstbrand,Fachhandel (Distributor),134,14.94,2001.62
+2025-08,Alte Sorte Obstbrand,Fachhandel (Distributor),133,14.15,1881.99
+2025-09,Alte Sorte Obstbrand,Fachhandel (Distributor),114,15.82,1803.86
+2025-10,Alte Sorte Obstbrand,Fachhandel (Distributor),147,15.09,2217.71
+2025-11,Alte Sorte Obstbrand,Fachhandel (Distributor),130,15.34,1994.45
+2025-12,Alte Sorte Obstbrand,Fachhandel (Distributor),153,15.71,2403.71
+2024-01,Alte Sorte Obstbrand,Gastronomie (On-Premise),136,18.46,2509.93
+2024-02,Alte Sorte Obstbrand,Gastronomie (On-Premise),114,19.12,2179.22
+2024-03,Alte Sorte Obstbrand,Gastronomie (On-Premise),121,18.19,2200.91
+2024-04,Alte Sorte Obstbrand,Gastronomie (On-Premise),118,18.38,2169.26
+2024-05,Alte Sorte Obstbrand,Gastronomie (On-Premise),140,19.5,2730.35
+2024-06,Alte Sorte Obstbrand,Gastronomie (On-Premise),117,19.84,2321.7
+2024-07,Alte Sorte Obstbrand,Gastronomie (On-Premise),115,18.51,2128.54
+2024-08,Alte Sorte Obstbrand,Gastronomie (On-Premise),125,19.31,2413.4
+2024-09,Alte Sorte Obstbrand,Gastronomie (On-Premise),97,18.89,1832.48
+2024-10,Alte Sorte Obstbrand,Gastronomie (On-Premise),95,18.21,1730.12
+2024-11,Alte Sorte Obstbrand,Gastronomie (On-Premise),108,20.09,2169.54
+2024-12,Alte Sorte Obstbrand,Gastronomie (On-Premise),85,19.32,1642.28
+2025-01,Alte Sorte Obstbrand,Gastronomie (On-Premise),88,18.72,1647.57
+2025-02,Alte Sorte Obstbrand,Gastronomie (On-Premise),86,18.51,1591.65
+2025-03,Alte Sorte Obstbrand,Gastronomie (On-Premise),88,18.53,1630.32
+2025-04,Alte Sorte Obstbrand,Gastronomie (On-Premise),87,18.97,1650.51
+2025-05,Alte Sorte Obstbrand,Gastronomie (On-Premise),81,18.48,1497.1
+2025-06,Alte Sorte Obstbrand,Gastronomie (On-Premise),76,19.43,1476.72
+2025-07,Alte Sorte Obstbrand,Gastronomie (On-Premise),81,18.44,1493.87
+2025-08,Alte Sorte Obstbrand,Gastronomie (On-Premise),75,19.43,1457.12
+2025-09,Alte Sorte Obstbrand,Gastronomie (On-Premise),62,19.31,1197.2
+2025-10,Alte Sorte Obstbrand,Gastronomie (On-Premise),66,19.33,1275.47
+2025-11,Alte Sorte Obstbrand,Gastronomie (On-Premise),63,17.97,1132.19
+2025-12,Alte Sorte Obstbrand,Gastronomie (On-Premise),56,19.03,1065.53
+2024-01,Alte Sorte Obstbrand,DTC Online,92,21.26,1955.66
+2024-02,Alte Sorte Obstbrand,DTC Online,98,20.76,2034.57
+2024-03,Alte Sorte Obstbrand,DTC Online,94,21.06,1979.28
+2024-04,Alte Sorte Obstbrand,DTC Online,92,21.88,2013.06
+2024-05,Alte Sorte Obstbrand,DTC Online,92,21.6,1987.01
+2024-06,Alte Sorte Obstbrand,DTC Online,112,21.47,2404.85
+2024-07,Alte Sorte Obstbrand,DTC Online,113,21.11,2385.37
+2024-08,Alte Sorte Obstbrand,DTC Online,113,22.79,2575.83
+2024-09,Alte Sorte Obstbrand,DTC Online,86,21.33,1834.18
+2024-10,Alte Sorte Obstbrand,DTC Online,119,21.72,2584.31
+2024-11,Alte Sorte Obstbrand,DTC Online,120,21.45,2574.49
+2024-12,Alte Sorte Obstbrand,DTC Online,121,21.75,2631.5
+2025-01,Alte Sorte Obstbrand,DTC Online,136,22.02,2994.28
+2025-02,Alte Sorte Obstbrand,DTC Online,130,21.58,2805.4
+2025-03,Alte Sorte Obstbrand,DTC Online,124,21.57,2674.24
+2025-04,Alte Sorte Obstbrand,DTC Online,137,21.57,2955.64
+2025-05,Alte Sorte Obstbrand,DTC Online,140,23.21,3249.46
+2025-06,Alte Sorte Obstbrand,DTC Online,151,21.64,3267.08
+2025-07,Alte Sorte Obstbrand,DTC Online,159,21.58,3431.62
+2025-08,Alte Sorte Obstbrand,DTC Online,120,21.19,2542.7
+2025-09,Alte Sorte Obstbrand,DTC Online,126,21.62,2724.07
+2025-10,Alte Sorte Obstbrand,DTC Online,155,22.95,3557.08
+2025-11,Alte Sorte Obstbrand,DTC Online,164,21.71,3559.85
+2025-12,Alte Sorte Obstbrand,DTC Online,175,20.4,3570.11
+2024-01,Alte Sorte Obstbrand,Hofladen/Tasting Room,129,19.07,2459.39
+2024-02,Alte Sorte Obstbrand,Hofladen/Tasting Room,124,19.7,2442.98
+2024-03,Alte Sorte Obstbrand,Hofladen/Tasting Room,141,20.06,2828.3
+2024-04,Alte Sorte Obstbrand,Hofladen/Tasting Room,109,19.44,2119.11
+2024-05,Alte Sorte Obstbrand,Hofladen/Tasting Room,105,19.99,2099.25
+2024-06,Alte Sorte Obstbrand,Hofladen/Tasting Room,113,20.15,2276.92
+2024-07,Alte Sorte Obstbrand,Hofladen/Tasting Room,105,19.79,2077.79
+2024-08,Alte Sorte Obstbrand,Hofladen/Tasting Room,99,20.18,1997.41
+2024-09,Alte Sorte Obstbrand,Hofladen/Tasting Room,97,20.47,1985.63
+2024-10,Alte Sorte Obstbrand,Hofladen/Tasting Room,109,21.07,2296.99
+2024-11,Alte Sorte Obstbrand,Hofladen/Tasting Room,87,18.89,1643.03
+2024-12,Alte Sorte Obstbrand,Hofladen/Tasting Room,107,19.92,2131.09
+2025-01,Alte Sorte Obstbrand,Hofladen/Tasting Room,87,21.41,1863.0
+2025-02,Alte Sorte Obstbrand,Hofladen/Tasting Room,96,20.38,1956.9
+2025-03,Alte Sorte Obstbrand,Hofladen/Tasting Room,96,19.48,1869.78
+2025-04,Alte Sorte Obstbrand,Hofladen/Tasting Room,108,20.76,2241.57
+2025-05,Alte Sorte Obstbrand,Hofladen/Tasting Room,88,19.36,1703.48
+2025-06,Alte Sorte Obstbrand,Hofladen/Tasting Room,88,20.6,1813.23
+2025-07,Alte Sorte Obstbrand,Hofladen/Tasting Room,95,19.86,1886.27
+2025-08,Alte Sorte Obstbrand,Hofladen/Tasting Room,77,18.96,1459.89
+2025-09,Alte Sorte Obstbrand,Hofladen/Tasting Room,85,19.18,1630.13
+2025-10,Alte Sorte Obstbrand,Hofladen/Tasting Room,77,20.95,1613.07
+2025-11,Alte Sorte Obstbrand,Hofladen/Tasting Room,69,19.8,1366.4
+2025-12,Alte Sorte Obstbrand,Hofladen/Tasting Room,60,19.92,1195.05
+2025-03,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),81,15.11,1223.84
+2025-04,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),107,15.3,1637.12
+2025-05,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),97,14.31,1387.94
+2025-06,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),133,14.83,1971.9
+2025-07,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),116,14.79,1715.56
+2025-08,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),126,14.74,1856.72
+2025-09,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),124,14.56,1805.09
+2025-10,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),138,14.56,2009.1
+2025-11,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),136,14.85,2019.23
+2025-12,Hasetal Alkoholfrei Botanical,Fachhandel (Distributor),148,15.47,2289.23
+2025-03,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),35,19.11,668.7
+2025-04,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),56,17.35,971.56
+2025-05,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),53,18.29,969.57
+2025-06,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),52,18.07,939.55
+2025-07,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),57,19.47,1109.93
+2025-08,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),73,19.21,1402.02
+2025-09,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),76,17.87,1358.38
+2025-10,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),72,18.77,1351.56
+2025-11,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),71,18.9,1341.6
+2025-12,Hasetal Alkoholfrei Botanical,Gastronomie (On-Premise),81,18.29,1481.65
+2025-03,Hasetal Alkoholfrei Botanical,DTC Online,71,21.56,1530.66
+2025-04,Hasetal Alkoholfrei Botanical,DTC Online,75,22.01,1651.12
+2025-05,Hasetal Alkoholfrei Botanical,DTC Online,81,21.67,1755.12
+2025-06,Hasetal Alkoholfrei Botanical,DTC Online,109,21.08,2297.44
+2025-07,Hasetal Alkoholfrei Botanical,DTC Online,121,20.48,2477.65
+2025-08,Hasetal Alkoholfrei Botanical,DTC Online,144,21.16,3046.61
+2025-09,Hasetal Alkoholfrei Botanical,DTC Online,142,21.94,3116.12
+2025-10,Hasetal Alkoholfrei Botanical,DTC Online,156,20.38,3178.66
+2025-11,Hasetal Alkoholfrei Botanical,DTC Online,160,21.66,3465.89
+2025-12,Hasetal Alkoholfrei Botanical,DTC Online,182,22.39,4075.89
+2025-03,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,53,19.55,1036.04
+2025-04,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,51,19.66,1002.54
+2025-05,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,65,19.49,1266.95
+2025-06,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,63,19.39,1221.68
+2025-07,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,60,18.64,1118.36
+2025-08,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,79,19.32,1526.1
+2025-09,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,85,19.11,1624.39
+2025-10,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,88,18.85,1659.23
+2025-11,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,80,20.02,1601.98
+2025-12,Hasetal Alkoholfrei Botanical,Hofladen/Tasting Room,103,20.0,2059.76

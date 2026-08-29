@@ -1,0 +1,181 @@
+respondent_id,visit_month,age_group,discovery_channel,preferred_purchase_channel,alcohol_consumption_change_12m,interest_in_alkoholfrei_line,nps_score_0_10
+R-2000,2025-02,18-24,Instagram/Social Media,Gastronomie,"Ja, deutlich weniger",Vielleicht,9
+R-2001,2025-02,65+,Wochenmarkt/Event,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",9
+R-2002,2025-04,65+,Empfehlung (Word of Mouth),Hofladen (vor Ort),Unverändert,Vielleicht,8
+R-2003,2025-09,35-44,Google-Suche,Fachhandel,Unverändert,"Nein, kein Interesse",6
+R-2004,2025-07,45-54,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",9
+R-2005,2025-05,45-54,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Ja, interessiert",9
+R-2006,2025-07,65+,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,8
+R-2007,2025-09,35-44,Instagram/Social Media,Fachhandel,Unverändert,Vielleicht,9
+R-2008,2025-11,45-54,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",10
+R-2009,2025-01,25-34,Wochenmarkt/Event,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",6
+R-2010,2025-04,25-34,Instagram/Social Media,Hofladen (vor Ort),Unverändert,Vielleicht,8
+R-2011,2025-03,35-44,Sonstiges,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",7
+R-2012,2025-08,25-34,Wochenmarkt/Event,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",7
+R-2013,2025-04,18-24,Empfehlung (Word of Mouth),Fachhandel,"Ja, etwas weniger","Ja, interessiert",9
+R-2014,2025-06,35-44,Fachhandel-Regal,Gastronomie,Unverändert,"Ja, interessiert",7
+R-2015,2025-08,45-54,Instagram/Social Media,Hofladen (vor Ort),Unverändert,Vielleicht,7
+R-2016,2025-01,25-34,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,Vielleicht,8
+R-2017,2025-07,55-64,Sonstiges,Online-Shop (DTC),"Ja, etwas weniger",Vielleicht,9
+R-2018,2025-01,45-54,Instagram/Social Media,Fachhandel,"Ja, etwas weniger",Vielleicht,9
+R-2019,2025-06,45-54,Google-Suche,Hofladen (vor Ort),Unverändert,"Ja, interessiert",10
+R-2020,2025-10,55-64,Instagram/Social Media,Fachhandel,Unverändert,Vielleicht,7
+R-2021,2025-03,25-34,Wochenmarkt/Event,Fachhandel,Trinke mehr,"Nein, kein Interesse",9
+R-2022,2025-01,25-34,Wochenmarkt/Event,Fachhandel,"Ja, etwas weniger","Nein, kein Interesse",6
+R-2023,2025-05,55-64,Instagram/Social Media,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",9
+R-2024,2025-09,55-64,Empfehlung (Word of Mouth),Fachhandel,Unverändert,"Ja, interessiert",10
+R-2025,2025-07,25-34,Wochenmarkt/Event,Online-Shop (DTC),"Ja, etwas weniger","Ja, interessiert",10
+R-2026,2025-08,55-64,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,Vielleicht,7
+R-2027,2025-07,18-24,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",8
+R-2028,2025-03,25-34,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,"Ja, interessiert",10
+R-2029,2025-04,25-34,Sonstiges,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",8
+R-2030,2025-08,25-34,Empfehlung (Word of Mouth),Fachhandel,Unverändert,"Ja, interessiert",10
+R-2031,2025-03,35-44,Google-Suche,Fachhandel,Unverändert,"Nein, kein Interesse",7
+R-2032,2025-01,65+,Instagram/Social Media,Hofladen (vor Ort),Unverändert,Vielleicht,10
+R-2033,2025-01,35-44,Empfehlung (Word of Mouth),Online-Shop (DTC),"Ja, etwas weniger","Nein, kein Interesse",10
+R-2034,2025-11,25-34,Empfehlung (Word of Mouth),Fachhandel,Trinke mehr,"Ja, interessiert",9
+R-2035,2025-04,25-34,Wochenmarkt/Event,Online-Shop (DTC),Unverändert,"Ja, interessiert",7
+R-2036,2025-11,18-24,Google-Suche,Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,8
+R-2037,2025-06,18-24,Google-Suche,Gastronomie,"Ja, etwas weniger","Ja, interessiert",8
+R-2038,2025-10,35-44,Google-Suche,Online-Shop (DTC),Trinke mehr,"Nein, kein Interesse",9
+R-2039,2025-10,35-44,Google-Suche,Hofladen (vor Ort),"Ja, deutlich weniger",Vielleicht,8
+R-2040,2025-07,25-34,Fachhandel-Regal,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",8
+R-2041,2025-05,35-44,Empfehlung (Word of Mouth),Hofladen (vor Ort),Unverändert,Vielleicht,8
+R-2042,2025-04,25-34,Fachhandel-Regal,Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,10
+R-2043,2025-03,45-54,Empfehlung (Word of Mouth),Fachhandel,"Ja, deutlich weniger","Ja, interessiert",5
+R-2044,2025-02,35-44,Instagram/Social Media,Fachhandel,"Ja, etwas weniger","Nein, kein Interesse",6
+R-2045,2025-10,25-34,Instagram/Social Media,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",6
+R-2046,2025-07,35-44,Google-Suche,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",7
+R-2047,2025-07,25-34,Wochenmarkt/Event,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",5
+R-2048,2025-10,25-34,Instagram/Social Media,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",9
+R-2049,2025-04,25-34,Wochenmarkt/Event,Online-Shop (DTC),"Ja, deutlich weniger","Nein, kein Interesse",8
+R-2050,2025-08,55-64,Instagram/Social Media,Hofladen (vor Ort),Unverändert,Vielleicht,8
+R-2051,2025-06,25-34,Empfehlung (Word of Mouth),Fachhandel,"Ja, deutlich weniger","Ja, interessiert",7
+R-2052,2025-03,65+,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,"Ja, interessiert",8
+R-2053,2025-11,35-44,Wochenmarkt/Event,Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,8
+R-2054,2025-05,25-34,Instagram/Social Media,Fachhandel,"Ja, deutlich weniger",Vielleicht,9
+R-2055,2025-01,45-54,Instagram/Social Media,Fachhandel,Unverändert,Vielleicht,7
+R-2056,2025-11,45-54,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,Vielleicht,9
+R-2057,2025-01,55-64,Google-Suche,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",6
+R-2058,2025-07,25-34,Google-Suche,Online-Shop (DTC),"Ja, deutlich weniger",Vielleicht,10
+R-2059,2025-02,55-64,Empfehlung (Word of Mouth),Gastronomie,Unverändert,"Nein, kein Interesse",3
+R-2060,2025-06,55-64,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,Vielleicht,7
+R-2061,2025-04,25-34,Google-Suche,Online-Shop (DTC),Unverändert,"Ja, interessiert",6
+R-2062,2025-02,35-44,Fachhandel-Regal,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",9
+R-2063,2025-03,45-54,Empfehlung (Word of Mouth),Fachhandel,Unverändert,"Nein, kein Interesse",6
+R-2064,2025-06,25-34,Fachhandel-Regal,Online-Shop (DTC),"Ja, etwas weniger","Ja, interessiert",10
+R-2065,2025-09,55-64,Empfehlung (Word of Mouth),Online-Shop (DTC),"Ja, etwas weniger","Nein, kein Interesse",6
+R-2066,2025-02,45-54,Instagram/Social Media,Fachhandel,"Ja, deutlich weniger","Ja, interessiert",10
+R-2067,2025-01,55-64,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,"Nein, kein Interesse",9
+R-2068,2025-01,35-44,Google-Suche,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",8
+R-2069,2025-10,35-44,Fachhandel-Regal,Online-Shop (DTC),"Ja, etwas weniger",Vielleicht,9
+R-2070,2025-11,25-34,Empfehlung (Word of Mouth),Gastronomie,"Ja, deutlich weniger",Vielleicht,10
+R-2071,2025-04,25-34,Google-Suche,Fachhandel,"Ja, deutlich weniger","Ja, interessiert",10
+R-2072,2025-10,45-54,Instagram/Social Media,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",5
+R-2073,2025-08,65+,Empfehlung (Word of Mouth),Fachhandel,"Ja, etwas weniger",Vielleicht,10
+R-2074,2025-03,25-34,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, deutlich weniger","Ja, interessiert",8
+R-2075,2025-05,18-24,Empfehlung (Word of Mouth),Online-Shop (DTC),"Ja, etwas weniger","Ja, interessiert",6
+R-2076,2025-11,25-34,Instagram/Social Media,Gastronomie,"Ja, etwas weniger","Ja, interessiert",9
+R-2077,2025-09,35-44,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",6
+R-2078,2025-07,55-64,Wochenmarkt/Event,Gastronomie,Unverändert,Vielleicht,8
+R-2079,2025-04,25-34,Wochenmarkt/Event,Gastronomie,"Ja, etwas weniger","Ja, interessiert",8
+R-2080,2025-10,35-44,Google-Suche,Fachhandel,Trinke mehr,"Ja, interessiert",7
+R-2081,2025-01,35-44,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,"Nein, kein Interesse",9
+R-2082,2025-03,55-64,Fachhandel-Regal,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",6
+R-2083,2025-01,25-34,Wochenmarkt/Event,Hofladen (vor Ort),"Ja, deutlich weniger",Vielleicht,8
+R-2084,2025-02,18-24,Fachhandel-Regal,Fachhandel,"Ja, etwas weniger","Ja, interessiert",7
+R-2085,2025-10,35-44,Empfehlung (Word of Mouth),Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",8
+R-2086,2025-09,35-44,Google-Suche,Fachhandel,Unverändert,Vielleicht,10
+R-2087,2025-10,25-34,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Ja, interessiert",8
+R-2088,2025-01,55-64,Instagram/Social Media,Fachhandel,Unverändert,"Nein, kein Interesse",6
+R-2089,2025-04,45-54,Sonstiges,Gastronomie,Unverändert,"Ja, interessiert",8
+R-2090,2025-09,25-34,Empfehlung (Word of Mouth),Fachhandel,"Ja, etwas weniger","Ja, interessiert",7
+R-2091,2025-10,35-44,Instagram/Social Media,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",8
+R-2092,2025-03,55-64,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,Vielleicht,8
+R-2093,2025-08,55-64,Sonstiges,Hofladen (vor Ort),Unverändert,Vielleicht,8
+R-2094,2025-07,18-24,Google-Suche,Hofladen (vor Ort),Unverändert,"Ja, interessiert",8
+R-2095,2025-02,55-64,Sonstiges,Fachhandel,Trinke mehr,Vielleicht,7
+R-2096,2025-11,18-24,Sonstiges,Online-Shop (DTC),Unverändert,"Ja, interessiert",9
+R-2097,2025-01,45-54,Empfehlung (Word of Mouth),Fachhandel,"Ja, etwas weniger","Ja, interessiert",10
+R-2098,2025-01,45-54,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",7
+R-2099,2025-02,65+,Instagram/Social Media,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",8
+R-2100,2025-01,45-54,Instagram/Social Media,Gastronomie,"Ja, etwas weniger","Nein, kein Interesse",8
+R-2101,2025-09,25-34,Wochenmarkt/Event,Gastronomie,"Ja, deutlich weniger","Ja, interessiert",10
+R-2102,2025-06,45-54,Fachhandel-Regal,Hofladen (vor Ort),"Ja, deutlich weniger","Nein, kein Interesse",10
+R-2103,2025-09,25-34,Instagram/Social Media,Fachhandel,Unverändert,"Ja, interessiert",7
+R-2104,2025-09,55-64,Google-Suche,Online-Shop (DTC),"Ja, deutlich weniger","Nein, kein Interesse",8
+R-2105,2025-10,18-24,Google-Suche,Hofladen (vor Ort),"Ja, deutlich weniger","Ja, interessiert",6
+R-2106,2025-04,25-34,Google-Suche,Fachhandel,Unverändert,"Ja, interessiert",7
+R-2107,2025-11,45-54,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Ja, interessiert",8
+R-2108,2025-04,25-34,Instagram/Social Media,Online-Shop (DTC),"Ja, etwas weniger",Vielleicht,9
+R-2109,2025-06,45-54,Google-Suche,Gastronomie,Unverändert,Vielleicht,10
+R-2110,2025-09,45-54,Wochenmarkt/Event,Fachhandel,"Ja, etwas weniger","Ja, interessiert",8
+R-2111,2025-01,45-54,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,6
+R-2112,2025-09,55-64,Empfehlung (Word of Mouth),Fachhandel,Unverändert,"Ja, interessiert",9
+R-2113,2025-07,35-44,Instagram/Social Media,Hofladen (vor Ort),"Ja, deutlich weniger",Vielleicht,8
+R-2114,2025-02,25-34,Sonstiges,Gastronomie,Unverändert,"Ja, interessiert",9
+R-2115,2025-11,25-34,Fachhandel-Regal,Online-Shop (DTC),Unverändert,"Ja, interessiert",8
+R-2116,2025-08,35-44,Sonstiges,Fachhandel,Unverändert,"Nein, kein Interesse",9
+R-2117,2025-10,18-24,Google-Suche,Hofladen (vor Ort),Unverändert,"Ja, interessiert",9
+R-2118,2025-09,45-54,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, deutlich weniger","Ja, interessiert",9
+R-2119,2025-04,25-34,Fachhandel-Regal,Online-Shop (DTC),"Ja, etwas weniger",Vielleicht,7
+R-2120,2025-04,18-24,Instagram/Social Media,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",10
+R-2121,2025-10,65+,Wochenmarkt/Event,Fachhandel,Unverändert,Vielleicht,7
+R-2122,2025-02,55-64,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Ja, interessiert",8
+R-2123,2025-06,25-34,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,"Nein, kein Interesse",10
+R-2124,2025-11,35-44,Fachhandel-Regal,Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,9
+R-2125,2025-07,55-64,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,Vielleicht,6
+R-2126,2025-10,45-54,Fachhandel-Regal,Gastronomie,"Ja, deutlich weniger",Vielleicht,10
+R-2127,2025-01,25-34,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",10
+R-2128,2025-06,35-44,Empfehlung (Word of Mouth),Fachhandel,"Ja, etwas weniger",Vielleicht,10
+R-2129,2025-10,55-64,Instagram/Social Media,Hofladen (vor Ort),Trinke mehr,"Nein, kein Interesse",8
+R-2130,2025-03,18-24,Instagram/Social Media,Gastronomie,"Ja, deutlich weniger","Ja, interessiert",9
+R-2131,2025-07,65+,Wochenmarkt/Event,Online-Shop (DTC),Unverändert,"Ja, interessiert",8
+R-2132,2025-09,35-44,Fachhandel-Regal,Hofladen (vor Ort),Unverändert,Vielleicht,7
+R-2133,2025-08,25-34,Instagram/Social Media,Fachhandel,"Ja, deutlich weniger",Vielleicht,10
+R-2134,2025-03,55-64,Empfehlung (Word of Mouth),Gastronomie,Unverändert,Vielleicht,8
+R-2135,2025-06,25-34,Sonstiges,Hofladen (vor Ort),Unverändert,"Ja, interessiert",7
+R-2136,2025-11,35-44,Empfehlung (Word of Mouth),Hofladen (vor Ort),Unverändert,"Ja, interessiert",7
+R-2137,2025-09,45-54,Sonstiges,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",10
+R-2138,2025-07,25-34,Fachhandel-Regal,Online-Shop (DTC),Unverändert,"Ja, interessiert",10
+R-2139,2025-02,55-64,Empfehlung (Word of Mouth),Gastronomie,Unverändert,Vielleicht,8
+R-2140,2025-06,45-54,Wochenmarkt/Event,Gastronomie,"Ja, etwas weniger","Ja, interessiert",8
+R-2141,2025-01,25-34,Instagram/Social Media,Hofladen (vor Ort),Trinke mehr,"Ja, interessiert",9
+R-2142,2025-02,25-34,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",10
+R-2143,2025-08,25-34,Google-Suche,Online-Shop (DTC),"Ja, deutlich weniger","Ja, interessiert",6
+R-2144,2025-02,45-54,Instagram/Social Media,Online-Shop (DTC),Trinke mehr,Vielleicht,10
+R-2145,2025-02,25-34,Instagram/Social Media,Hofladen (vor Ort),"Ja, deutlich weniger","Ja, interessiert",8
+R-2146,2025-05,35-44,Instagram/Social Media,Online-Shop (DTC),Unverändert,Vielleicht,7
+R-2147,2025-01,55-64,Instagram/Social Media,Gastronomie,Unverändert,Vielleicht,7
+R-2148,2025-02,55-64,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",9
+R-2149,2025-02,25-34,Google-Suche,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",10
+R-2150,2025-09,35-44,Empfehlung (Word of Mouth),Gastronomie,"Ja, deutlich weniger",Vielleicht,8
+R-2151,2025-11,35-44,Wochenmarkt/Event,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",9
+R-2152,2025-09,35-44,Empfehlung (Word of Mouth),Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",7
+R-2153,2025-06,35-44,Empfehlung (Word of Mouth),Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",9
+R-2154,2025-11,35-44,Wochenmarkt/Event,Fachhandel,"Ja, etwas weniger",Vielleicht,9
+R-2155,2025-02,45-54,Google-Suche,Hofladen (vor Ort),Unverändert,"Nein, kein Interesse",6
+R-2156,2025-05,25-34,Instagram/Social Media,Hofladen (vor Ort),Unverändert,"Ja, interessiert",7
+R-2157,2025-02,35-44,Empfehlung (Word of Mouth),Fachhandel,Unverändert,"Ja, interessiert",9
+R-2158,2025-01,35-44,Wochenmarkt/Event,Fachhandel,Unverändert,"Ja, interessiert",5
+R-2159,2025-05,25-34,Sonstiges,Fachhandel,Unverändert,"Ja, interessiert",8
+R-2160,2025-03,45-54,Instagram/Social Media,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",9
+R-2161,2025-05,35-44,Empfehlung (Word of Mouth),Gastronomie,Unverändert,"Nein, kein Interesse",5
+R-2162,2025-08,65+,Wochenmarkt/Event,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",7
+R-2163,2025-04,55-64,Instagram/Social Media,Online-Shop (DTC),Unverändert,"Nein, kein Interesse",8
+R-2164,2025-10,25-34,Wochenmarkt/Event,Online-Shop (DTC),Unverändert,Vielleicht,10
+R-2165,2025-05,25-34,Sonstiges,Online-Shop (DTC),Unverändert,Vielleicht,6
+R-2166,2025-07,55-64,Instagram/Social Media,Hofladen (vor Ort),"Ja, etwas weniger","Ja, interessiert",10
+R-2167,2025-02,35-44,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, etwas weniger","Nein, kein Interesse",9
+R-2168,2025-05,18-24,Instagram/Social Media,Gastronomie,Unverändert,"Ja, interessiert",10
+R-2169,2025-01,45-54,Empfehlung (Word of Mouth),Hofladen (vor Ort),Unverändert,Vielleicht,10
+R-2170,2025-11,35-44,Sonstiges,Online-Shop (DTC),"Ja, etwas weniger",Vielleicht,9
+R-2171,2025-05,55-64,Wochenmarkt/Event,Gastronomie,Unverändert,Vielleicht,9
+R-2172,2025-07,45-54,Instagram/Social Media,Hofladen (vor Ort),Unverändert,Vielleicht,5
+R-2173,2025-07,65+,Empfehlung (Word of Mouth),Online-Shop (DTC),Unverändert,"Nein, kein Interesse",6
+R-2174,2025-05,45-54,Wochenmarkt/Event,Online-Shop (DTC),Unverändert,"Ja, interessiert",6
+R-2175,2025-03,65+,Fachhandel-Regal,Hofladen (vor Ort),"Ja, etwas weniger",Vielleicht,8
+R-2176,2025-04,25-34,Empfehlung (Word of Mouth),Hofladen (vor Ort),"Ja, deutlich weniger","Ja, interessiert",10
+R-2177,2025-07,35-44,Empfehlung (Word of Mouth),Fachhandel,"Ja, deutlich weniger","Nein, kein Interesse",5
+R-2178,2025-09,18-24,Google-Suche,Online-Shop (DTC),"Ja, deutlich weniger",Vielleicht,8
+R-2179,2025-09,55-64,Instagram/Social Media,Hofladen (vor Ort),"Ja, deutlich weniger","Nein, kein Interesse",6
