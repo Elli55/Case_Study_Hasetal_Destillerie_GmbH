@@ -1,0 +1,10 @@
+id,account_id,account_type,cases_ordered
+0,ACC-1008,Gastronomie - Bar,136
+1,ACC-1016,Gastronomie - Bar,134
+2,ACC-1035,Gastronomie - Bar,128
+3,ACC-1038,Fachhandel,125
+4,ACC-1041,Gastronomie - Restaurant,123
+5,ACC-1024,Getränkemarkt,118
+6,ACC-1014,Fachhandel,117
+7,ACC-1032,Gastronomie - Restaurant,115
+8,ACC-1029,Fachhandel,65
