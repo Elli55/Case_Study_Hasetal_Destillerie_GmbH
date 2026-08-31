@@ -1,4 +1,4 @@
-id,account_id,account_type,tier,cases_ordered
+,account_id,account_type,tier,cases_ordered
 0,ACC-1008,Gastronomie - Bar,A - Key Account,136
 1,ACC-1016,Gastronomie - Bar,A - Key Account,134
 2,ACC-1035,Gastronomie - Bar,A - Key Account,128
